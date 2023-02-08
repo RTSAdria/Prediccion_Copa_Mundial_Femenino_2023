@@ -1,0 +1,65 @@
+Local,Marcador,Visita,year
+Nueva Zelanda,Partido 1 ,Noruega,2023
+Filipinas,Partido 3 ,Suiza,2023
+Nueva Zelanda,Partido 17 ,Filipinas,2023
+Suiza,Partido 18 ,Noruega,2023
+Suiza,Partido 33 ,Nueva Zelanda,2023
+Noruega,Partido 34 ,Filipinas,2023
+Australia,Partido 2 ,Irlanda,2023
+Nigeria,Partido 4 ,Canadá,2023
+Canadá,Partido 19 ,Irlanda,2023
+Australia,Partido 22 ,Nigeria,2023
+Canadá,Partido 35 ,Australia,2023
+Irlanda,Partido 36 ,Nigeria,2023
+España,Partido 5 ,Costa Rica,2023
+Zambia,Partido 6 ,Japón,2023
+Japón,Partido 21 ,Costa Rica,2023
+España,Partido 20 ,Zambia,2023
+Japón,Partido 37 ,España,2023
+Costa Rica,Partido 38 ,Zambia,2023
+Inglaterra,Partido 7 ,Ganador Repesca Grupo B,2023
+Dinamarca,Partido 8 ,China,2023
+Inglaterra,Partido 25 ,Dinamarca,2023
+China,Partido 26 ,Ganador Repesca Grupo B,2023
+China,Partido 39 ,Inglaterra,2023
+Ganador Repesca Grupo B,Partido 40 ,Dinamarca,2023
+Estados Unidos,Partido 9 ,Vietnam,2023
+Países Bajos,Partido 10 ,Ganador Repesca Grupo A,2023
+Estados Unidos,Partido 23 ,Países Bajos,2023
+Ganador Repesca Grupo A,Partido 24 ,Vietnam,2023
+Ganador Repesca Grupo A,Partido 41 ,Estados Unidos,2023
+Vietnam,Partido 42 ,Países Bajos,2023
+Francia,Partido 11 ,Jamaica,2023
+Brasil,Partido 13 ,Ganador Repesca Grupo C,2023
+Francia,Partido 28 ,Brasil,2023
+Ganador Repesca Grupo C,Partido 29 ,Jamaica,2023
+Ganador Repesca Grupo C,Partido 43 ,Francia,2023
+Jamaica,Partido 44 ,Brasil,2023
+Suecia,Partido 12 ,Sudáfrica,2023
+Italia,Partido 14 ,Argentina,2023
+Argentina,Partido 27 ,Sudáfrica,2023
+Suecia,Partido 30 ,Italia,2023
+Argentina,Partido 45 ,Suecia,2023
+Sudáfrica,Partido 46 ,Italia,2023
+Alemania,Partido 15 ,Marruecos,2023
+Colombia,Partido 16 ,Corea del Sur,2023
+Corea del Sur,Partido 32 ,Marruecos,2023
+Alemania,Partido 31 ,Colombia,2023
+Corea del Sur,Partido 47 ,Alemania,2023
+Marruecos,Partido 48 ,Colombia,2023
+1A,Partido 49 ,2C,2023
+1C,Partido 50 ,2A,2023
+1E,Partido 51 ,2G,2023
+1G,Partido 52 ,2E,2023
+1D,Partido 54 ,2B,2023
+1B,Partido 53 ,2D,2023
+1H,Partido 56 ,2F,2023
+1F,Partido 55 ,2H,2023
+OF1,Partido 57 ,OF3,2023
+OF2,Partido 58 ,OF4,2023
+OF5,Partido 59 ,OF7,2023
+OF6,Partido 60 ,OF8,2023
+CFA,Partido 61 ,CFB,2023
+CFC,Partido 62 ,CFD,2023
+LS1,Partido 63 ,LS2,2023
+WS1,Partido 64 ,WS2,2023

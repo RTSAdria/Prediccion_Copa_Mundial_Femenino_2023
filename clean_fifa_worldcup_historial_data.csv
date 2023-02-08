@@ -1,0 +1,287 @@
+Pais(L),Pais(V),Year,Goles(Local),Goles(Visita),Goles_Totales
+China,Alemania,1991,2,2,4
+Estados Unidos,Francia,1991,1,0,1
+Brasil,Estados Unidos,1991,3,0,3
+Alemania,Francia,1991,1,2,3
+China,Estados Unidos,1991,3,1,4
+Noruega,Dinamarca,1991,2,2,4
+Japón,Brasil,1991,0,2,2
+Suecia,Estados Unidos,1991,2,2,4
+Japón,Suecia,1991,0,5,5
+Brasil,Estados Unidos,1991,3,1,4
+Japón,Estados Unidos,1991,1,2,3
+Brasil,Suecia,1991,2,2,4
+Alemania,Nigeria,1991,4,0,4
+China Taipéi,Italia,1991,0,5,5
+Italia,Nigeria,1991,1,0,1
+China Taipéi,Alemania,1991,0,3,3
+China Taipéi,Nigeria,1991,2,0,2
+Italia,Alemania,1991,0,2,2
+Dinamarca,Alemania,1991,1,2,3
+China,Suecia,1991,0,1,1
+Noruega,Italia,1991,3,2,5
+Estados Unidos,China Taipéi,1991,7,0,7
+Suecia,Noruega,1991,1,4,5
+Alemania,Estados Unidos,1991,2,5,7
+Suecia,Alemania,1991,4,0,4
+Noruega,Estados Unidos,1991,1,2,3
+Alemania,Japón,1995,1,0,1
+Suecia,Brasil,1995,0,1,1
+Suecia,Alemania,1995,3,2,5
+Brasil,Japón,1995,1,2,3
+Suecia,Japón,1995,2,0,2
+Brasil,Alemania,1995,1,6,7
+Noruega,Nigeria,1995,8,0,8
+Inglaterra,Canadá,1995,3,2,5
+Noruega,Inglaterra,1995,2,0,2
+Nigeria,Canadá,1995,3,3,6
+Noruega,Canadá,1995,7,0,7
+Nigeria,Inglaterra,1995,2,3,5
+Estados Unidos,China,1995,3,3,6
+Dinamarca,Australia,1995,5,0,5
+Estados Unidos,Dinamarca,1995,2,0,2
+China,Australia,1995,4,2,6
+Estados Unidos,Australia,1995,4,1,5
+China,Dinamarca,1995,3,1,4
+Japón,Estados Unidos,1995,0,4,4
+Noruega,Dinamarca,1995,3,1,4
+Alemania,Inglaterra,1995,3,0,3
+Suecia,China,1995,1,1,2
+Estados Unidos,Noruega,1995,0,1,1
+Alemania,China,1995,1,0,1
+China,Estados Unidos,1995,0,2,2
+Alemania,Noruega,1995,0,2,2
+Estados Unidos,Dinamarca,1999,3,0,3
+Corea del Norte,Nigeria,1999,1,2,3
+Estados Unidos,Nigeria,1999,7,1,8
+Corea del Norte,Dinamarca,1999,3,1,4
+Nigeria,Dinamarca,1999,2,0,2
+Estados Unidos,Corea del Norte,1999,3,0,3
+Brasil,México,1999,7,1,8
+Alemania,Italia,1999,1,1,2
+Brasil,Italia,1999,2,0,2
+Alemania,México,1999,6,0,6
+Alemania,Brasil,1999,3,3,6
+México,Italia,1999,0,2,2
+Japón,Canadá,1999,1,1,2
+Noruega,Rusia,1999,2,1,3
+Noruega,Canadá,1999,7,1,8
+Japón,Rusia,1999,0,5,5
+Canadá,Rusia,1999,1,4,5
+Noruega,Japón,1999,4,0,4
+China,Suecia,1999,2,1,3
+Australia,Ghana,1999,1,1,2
+Australia,Suecia,1999,1,3,4
+China,Ghana,1999,7,0,7
+China,Australia,1999,3,1,4
+Ghana,Suecia,1999,0,2,2
+China,Rusia,1999,2,0,2
+Noruega,Suecia,1999,3,1,4
+Estados Unidos,Alemania,1999,3,2,5
+Brasil,Nigeria,1999,4,3,7
+Estados Unidos,Brasil,1999,2,0,2
+Noruega,China,1999,0,5,5
+Brasil,Noruega,1999,0,0,0
+Estados Unidos,China,1999,0,0,0
+Nigeria,Corea del Norte,2003,0,3,3
+Estados Unidos,Suecia,2003,3,1,4
+Suecia,Corea del Norte,2003,1,0,1
+Estados Unidos,Nigeria,2003,5,0,5
+Suecia,Nigeria,2003,3,0,3
+Corea del Norte,Estados Unidos,2003,0,3,3
+Noruega,Francia,2003,2,0,2
+Brasil,Corea del Sur,2003,3,0,3
+Noruega,Brasil,2003,1,4,5
+Francia,Corea del Sur,2003,1,0,1
+Corea del Sur,Noruega,2003,1,7,8
+Francia,Brasil,2003,1,1,2
+Alemania,Canadá,2003,4,1,5
+Japón,Argentina,2003,6,0,6
+Alemania,Japón,2003,3,0,3
+Canadá,Argentina,2003,3,0,3
+Canadá,Japón,2003,3,1,4
+Argentina,Alemania,2003,1,6,7
+Australia,Rusia,2003,1,2,3
+China,Ghana,2003,1,0,1
+Ghana,Rusia,2003,0,3,3
+China,Australia,2003,1,1,2
+Ghana,Australia,2003,2,1,3
+China,Rusia,2003,1,0,1
+Brasil,Suecia,2003,1,2,3
+Estados Unidos,Noruega,2003,1,0,1
+Alemania,Rusia,2003,7,1,8
+China,Canadá,2003,0,1,1
+Estados Unidos,Alemania,2003,0,3,3
+Suecia,Canadá,2003,2,1,3
+Estados Unidos,Canadá,2003,3,1,4
+Alemania,Suecia,2003,2,1,3
+Alemania,Argentina,2007,11,0,11
+Japón,Inglaterra,2007,2,2,4
+Argentina,Japón,2007,0,1,1
+Inglaterra,Alemania,2007,0,0,0
+Alemania,Japón,2007,2,0,2
+Inglaterra,Argentina,2007,6,1,7
+Estados Unidos,Corea del Norte,2007,2,2,4
+Nigeria,Suecia,2007,1,1,2
+Suecia,Estados Unidos,2007,0,2,2
+Corea del Norte,Nigeria,2007,2,0,2
+Nigeria,Estados Unidos,2007,0,1,1
+Corea del Norte,Suecia,2007,1,2,3
+Ghana,Australia,2007,1,4,5
+Noruega,Canadá,2007,2,1,3
+Canadá,Ghana,2007,4,0,4
+Australia,Noruega,2007,1,1,2
+Noruega,Ghana,2007,7,2,9
+Australia,Canadá,2007,2,2,4
+Nueva Zelanda,Brasil,2007,0,5,5
+China,Dinamarca,2007,3,2,5
+Dinamarca,Nueva Zelanda,2007,2,0,2
+Brasil,China,2007,4,0,4
+Brasil,Dinamarca,2007,1,0,1
+China,Nueva Zelanda,2007,2,0,2
+Alemania,Corea del Norte,2007,3,0,3
+Estados Unidos,Inglaterra,2007,3,0,3
+Noruega,China,2007,1,0,1
+Brasil,Australia,2007,3,2,5
+Alemania,Noruega,2007,3,0,3
+Estados Unidos,Brasil,2007,0,4,4
+Noruega,Estados Unidos,2007,1,4,5
+Alemania,Brasil,2007,2,0,2
+Dinamarca,Suecia,2007,2,4,6
+Suecia,Dinamarca,2007,3,1,4
+Nigeria,Francia,2011,0,1,1
+Alemania,Canadá,2011,2,1,3
+Canadá,Francia,2011,0,4,4
+Alemania,Nigeria,2011,1,0,1
+Francia,Alemania,2011,2,4,6
+Canadá,Nigeria,2011,0,1,1
+Japón,Nueva Zelanda,2011,2,1,3
+México,Inglaterra,2011,1,1,2
+Japón,México,2011,4,0,4
+Nueva Zelanda,Inglaterra,2011,1,2,3
+Inglaterra,Japón,2011,2,0,2
+Nueva Zelanda,México,2011,2,2,4
+Colombia,Suecia,2011,0,1,1
+Estados Unidos,Corea del Norte,2011,2,0,2
+Corea del Norte,Suecia,2011,0,1,1
+Estados Unidos,Colombia,2011,3,0,3
+Suecia,Estados Unidos,2011,2,1,3
+Corea del Norte,Colombia,2011,0,0,0
+Noruega,Guinea Ecuatorial,2011,1,0,1
+Brasil,Australia,2011,1,0,1
+Australia,Guinea Ecuatorial,2011,3,2,5
+Brasil,Noruega,2011,3,0,3
+Guinea Ecuatorial,Brasil,2011,0,3,3
+Australia,Noruega,2011,2,1,3
+Inglaterra,Francia,2011,1,1,2
+Alemania,Japón,2011,0,1,1
+Suecia,Australia,2011,3,1,4
+Brasil,Estados Unidos,2011,2,2,4
+Francia,Estados Unidos,2011,1,3,4
+Japón,Suecia,2011,3,1,4
+Suecia,Francia,2011,2,1,3
+Japón,Estados Unidos,2011,2,2,4
+Canadá,China,2015,1,0,1
+Nueva Zelanda,Países Bajos,2015,0,1,1
+China,Países Bajos,2015,1,0,1
+Canadá,Nueva Zelanda,2015,0,0,0
+Países Bajos,Canadá,2015,1,1,2
+China,Nueva Zelanda,2015,2,2,4
+Noruega,Tailandia,2015,4,0,4
+Alemania,Costa de Marfil,2015,10,0,10
+Alemania,Noruega,2015,1,1,2
+Costa de Marfil,Tailandia,2015,2,3,5
+Tailandia,Alemania,2015,0,4,4
+Costa de Marfil,Noruega,2015,1,3,4
+Camerún,Ecuador,2015,6,0,6
+Japón,Suiza,2015,1,0,1
+Suiza,Ecuador,2015,10,1,11
+Japón,Camerún,2015,2,1,3
+Ecuador,Japón,2015,0,1,1
+Suiza,Camerún,2015,1,2,3
+Suecia,Nigeria,2015,3,3,6
+Estados Unidos,Australia,2015,3,1,4
+Australia,Nigeria,2015,2,0,2
+Estados Unidos,Suecia,2015,0,0,0
+Nigeria,Estados Unidos,2015,0,1,1
+Australia,Suecia,2015,1,1,2
+España,Costa Rica,2015,1,1,2
+Brasil,Corea del Sur,2015,2,0,2
+Brasil,España,2015,1,0,1
+Corea del Sur,Costa Rica,2015,2,2,4
+Costa Rica,Brasil,2015,0,1,1
+Corea del Sur,España,2015,2,1,3
+Francia,Inglaterra,2015,1,0,1
+Colombia,México,2015,1,1,2
+Francia,Colombia,2015,0,2,2
+Inglaterra,México,2015,2,1,3
+México,Francia,2015,0,5,5
+Inglaterra,Colombia,2015,2,1,3
+Alemania,Suecia,2015,4,1,5
+China,Camerún,2015,1,0,1
+Brasil,Australia,2015,0,1,1
+Francia,Corea del Sur,2015,3,0,3
+Canadá,Suiza,2015,1,0,1
+Noruega,Inglaterra,2015,1,2,3
+Estados Unidos,Colombia,2015,2,0,2
+Japón,Países Bajos,2015,2,1,3
+Alemania,Francia,2015,1,1,2
+China,Estados Unidos,2015,0,1,1
+Australia,Japón,2015,0,1,1
+Inglaterra,Canadá,2015,2,1,3
+Estados Unidos,Alemania,2015,2,0,2
+Japón,Inglaterra,2015,2,1,3
+Alemania,Inglaterra,2015,0,1,1
+Estados Unidos,Japón,2015,5,2,7
+Francia,Corea del Sur,2019,4,0,4
+Noruega,Nigeria,2019,3,0,3
+Nigeria,Corea del Sur,2019,2,0,2
+Francia,Noruega,2019,2,1,3
+Nigeria,Francia,2019,0,1,1
+Corea del Sur,Noruega,2019,1,2,3
+Alemania,China,2019,1,0,1
+España,Sudáfrica,2019,3,1,4
+Alemania,España,2019,1,0,1
+Sudáfrica,China,2019,0,1,1
+Sudáfrica,Alemania,2019,0,4,4
+China,España,2019,0,0,0
+Australia,Italia,2019,1,2,3
+Brasil,Jamaica,2019,3,0,3
+Australia,Brasil,2019,3,2,5
+Jamaica,Italia,2019,0,5,5
+Jamaica,Australia,2019,1,4,5
+Italia,Brasil,2019,0,1,1
+Inglaterra,Escocia,2019,2,1,3
+Argentina,Japón,2019,0,0,0
+Japón,Escocia,2019,2,1,3
+Inglaterra,Argentina,2019,1,0,1
+Japón,Inglaterra,2019,0,2,2
+Escocia,Argentina,2019,3,3,6
+Canadá,Camerún,2019,1,0,1
+Nueva Zelanda,Países Bajos,2019,0,1,1
+Países Bajos,Camerún,2019,3,1,4
+Canadá,Nueva Zelanda,2019,2,0,2
+Países Bajos,Canadá,2019,2,1,3
+Camerún,Nueva Zelanda,2019,2,1,3
+Chile,Suecia,2019,0,2,2
+Estados Unidos,Tailandia,2019,13,0,13
+Suecia,Tailandia,2019,5,1,6
+Estados Unidos,Chile,2019,3,0,3
+Suecia,Estados Unidos,2019,0,2,2
+Tailandia,Chile,2019,0,2,2
+Alemania,Nigeria,2019,3,0,3
+Noruega,Australia,2019,1,1,2
+Inglaterra,Camerún,2019,3,0,3
+Francia,Brasil,2019,2,1,3
+España,Estados Unidos,2019,1,2,3
+Suecia,Canadá,2019,1,0,1
+Italia,China,2019,2,0,2
+Países Bajos,Japón,2019,2,1,3
+Noruega,Inglaterra,2019,0,3,3
+Francia,Estados Unidos,2019,1,2,3
+Italia,Países Bajos,2019,0,2,2
+Alemania,Suecia,2019,1,2,3
+Inglaterra,Estados Unidos,2019,1,2,3
+Países Bajos,Suecia,2019,1,0,1
+Inglaterra,Suecia,2019,1,2,3
+Estados Unidos,Países Bajos,2019,2,0,2
